@@ -1,0 +1,9 @@
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\bin\Debug\DataAccess.dll
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\PC740\2212360\Lab7_Advanced_Command\BusinessLogic\obj\Debug\BusinessLogic.pdb

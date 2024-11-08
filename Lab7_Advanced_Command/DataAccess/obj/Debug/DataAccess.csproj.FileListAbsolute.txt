@@ -1,0 +1,6 @@
+D:\PC740\2212360\Lab7_Advanced_Command\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\PC740\2212360\Lab7_Advanced_Command\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\PC740\2212360\Lab7_Advanced_Command\DataAccess\bin\Debug\DataAccess.dll
+D:\PC740\2212360\Lab7_Advanced_Command\DataAccess\bin\Debug\DataAccess.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\DataAccess\obj\Debug\DataAccess.dll
+D:\PC740\2212360\Lab7_Advanced_Command\DataAccess\obj\Debug\DataAccess.pdb

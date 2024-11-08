@@ -1,0 +1,15 @@
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\BusinessLogic.dll
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\DataAccess.dll
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\BusinessLogic.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\bin\Debug\DataAccess.pdb
+D:\PC740\2212360\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CopyComplete
